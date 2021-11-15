@@ -1,1 +1,1 @@
-# daily-journal
+Daily journal project created with Node and EJS.
